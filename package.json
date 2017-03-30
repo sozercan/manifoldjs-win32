@@ -33,8 +33,7 @@
   "dependencies": {
     "q": "^1.4.1",
     "manifoldjs-lib": "^1.0.0",
-    "electron-packager": "^7.3.0",
-    "image-to-icon-converter": "^1.0.1",
+    "electron-packager": "^7.5.0",
     "npm": "^3.10.5"
   },
   "devDependencies": {
