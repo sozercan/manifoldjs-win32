@@ -32,6 +32,7 @@
   ],
   "dependencies": {
     "q": "^1.4.1",
+    "png-to-ico": "^1.0.2",
     "manifoldjs-lib": "^1.0.0",
     "electron-packager": "^7.5.0",
     "npm": "^3.10.5"
