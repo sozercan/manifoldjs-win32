@@ -6,9 +6,10 @@
     "start": "electron ."
   },
   "devDependencies": {
-    "electron-prebuilt": "^1.2.8"
+    "electron": "^1.6.2"
   },
   "dependencies": {
-    "electron-window-state": "^3.0.3"
+    "electron-window-state": "^3.0.3",
+    "color": "^0.11.3"
   }
 }
